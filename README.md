@@ -1,5 +1,5 @@
 这里是一些不错的资源
-## C#
+## C Sharp
 - [C#语言规范](http://www.cnblogs.com/forerunner/p/csls5-1-introduction.html)
 
 ##JavaScript
