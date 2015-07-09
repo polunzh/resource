@@ -1,4 +1,6 @@
-这里是一些我关注的项目
+这里是一些不错的资源
+## C#
+- [C#语言规范](http://www.cnblogs.com/forerunner/p/csls5-1-introduction.html)
 
 ##JavaScript
 - [理解ES6](https://github.com/lenville/understandinges6)
