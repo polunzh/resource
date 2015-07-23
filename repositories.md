@@ -20,8 +20,7 @@
 
 ---
 
-##其它
+## 其它
 - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
 - [日志common-logging](https://github.com/net-commons/common-logging.git)
 - [前端书籍](https://github.com/lisposter/frontend-books)
----
