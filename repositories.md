@@ -17,6 +17,7 @@
 - [Ionic指南](https://github.com/ychow/ionic-guide)
 - [ghost-ionic,Ionic Demo](https://github.com/ghost-client/ghost-ionic)
 - [Ionic Material](https://github.com/zachsoft/Ionic-Material)
+- [移动端slider](https://github.com/BE-FE/iSlider/)
 
 ## 其它
 - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
