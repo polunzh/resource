@@ -6,6 +6,7 @@
 
 ## JavaScript
 - [函数式JavaScript](http://insights.thoughtworkers.org/functional-javascript/)
+- [JavaScript高级编程作者](http://www.nczonline.net/)
 
 ## Ionic
 - [Handling Cors issues in Ionic](http://blog.ionic.io/handling-cors-issues-in-ionic/)
