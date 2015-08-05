@@ -4,6 +4,9 @@
 ### EntityFramework
 - [Data Points - Looking Ahead to Entity Framework 7](https://msdn.microsoft.com/en-us/magazine/dn890367.aspx)
 
+## JavaScript
+- [函数式JavaScript](http://insights.thoughtworkers.org/functional-javascript/)
+
 ## Ionic
 - [Handling Cors issues in Ionic](http://blog.ionic.io/handling-cors-issues-in-ionic/)
 
