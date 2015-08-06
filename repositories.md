@@ -19,6 +19,7 @@
 - [Ionic Material](https://github.com/zachsoft/Ionic-Material)
 - [移动端slider](https://github.com/BE-FE/iSlider/)
 - [DatePicker](https://github.com/VitaliiBlagodir/cordova-plugin-datepicker)
+- [Ionic Cors Demo](https://github.com/driftyco/ionic-proxy-example)
 
 ## 其它
 - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
