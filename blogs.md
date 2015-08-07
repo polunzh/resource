@@ -13,3 +13,4 @@
 
 ## 其它
 - [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
+- [Vagrant环境搭建](http://python.jobbole.com/81861/)
