@@ -2,3 +2,4 @@
 - [Repository](https://github.com/zhangzhenqiang/resource/blob/master/repositories.md)
 - [博客](https://github.com/zhangzhenqiang/resource/blob/master/blogs.md)
 - [网站](https://github.com/zhangzhenqiang/resource/blob/master/sites.md)
+- [Sublime Text3配置相关](https://github.com/zhangzhenqiang/resource/blob/master/ST3Settings.md)
