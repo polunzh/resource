@@ -7,3 +7,8 @@
 - `python`[老齐的技术博客](	http://www.itdiffer.com/)
 - [Markdown](http://jingxuan.io/markdown/)
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
+- `python``临时`[个人技术博客](http://playbear.github.io/)
+
+
+## Python
+- [Python Examples](http://www.programcreek.com/python/)
