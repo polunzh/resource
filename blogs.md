@@ -11,6 +11,7 @@
 
 ## Ionic
 - [Handling Cors issues in Ionic](http://blog.ionic.io/handling-cors-issues-in-ionic/)
+- [Login_sidemenu_tabs](http://codepen.io/mircobabini/pen/gLkli)
 
 ## REST-ful
 - [REST-ful URI design](http://redrata.com/restful-uri-design/)
