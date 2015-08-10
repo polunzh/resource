@@ -12,3 +12,6 @@
 
 ## Python
 - [Python Examples](http://www.programcreek.com/python/)
+
+## Git
+- `应该看`[教程](https://www.atlassian.com/git/tutorials/syncing/)
