@@ -46,6 +46,7 @@
 
 ### REST-ful
 - [REST-ful URI design](http://redrata.com/restful-uri-design/)
+- [RESTful API 设计最佳实践](http://mp.weixin.qq.com/s?__biz=MzAwNjMxMTA5Mw==&mid=212973684&idx=1&sn=53927df736ec229f0903ed294107ae52&scene=5#rd)
 
 ### 其它
 - [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
