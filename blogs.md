@@ -1,6 +1,7 @@
 
 ### EntityFramework
 - [Data Points - Looking Ahead to Entity Framework 7](https://msdn.microsoft.com/en-us/magazine/dn890367.aspx)
+- [Entity Framework教程](http://www.cnblogs.com/lsxqw2004/p/4701979.html)
 
 ### JavaScript
 - [函数式JavaScript](http://insights.thoughtworkers.org/functional-javascript/)
