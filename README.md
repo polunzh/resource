@@ -39,6 +39,7 @@
 - [Vagrant搭建Python开发环境搭建](http://python.jobbole.com/81861/)
 - `python`[老齐的技术博客](	http://www.itdiffer.com/)
 - `python``临时`[个人技术博客](http://playbear.github.io/)
+- `书`[Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
