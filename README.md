@@ -23,6 +23,9 @@
 - [Hello bug ~](http://hellobug.github.io/)
 - [理解ES6](https://github.com/lenville/understandinges6)
 
+### AngularJS
+- [文档](http://docs.angularjs.cn/api)
+
 ### Ionic
 - [Handling Cors issues in Ionic](http://blog.ionic.io/handling-cors-issues-in-ionic/)
 - [Login_sidemenu_tabs](http://codepen.io/mircobabini/pen/gLkli)
