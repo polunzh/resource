@@ -44,6 +44,7 @@
 - `python`[老齐的技术博客](	http://www.itdiffer.com/)
 - `python``临时`[个人技术博客](http://playbear.github.io/)
 - `书`[Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+- `Site`[Python Guide](http://docs.python-guide.org/en/latest/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
