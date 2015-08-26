@@ -1,4 +1,5 @@
-## 插件
+`个人使用st3经常使用的配置和插件`
+### 插件
 - [Emmet](https://packagecontrol.io/packages/Emmet)
 - [HtmlBeautify](https://packagecontrol.io/packages/HTMLBeautify)
 - [JsFormat](https://packagecontrol.io/packages/JsFormat)
@@ -9,14 +10,19 @@
 - [AutoPeP8](https://packagecontrol.io/packages/AutoPEP8) 自动格式化Python代码
 - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
 - [ConvertToUTF8](https://packagecontrol.io/packages/ConvertToUTF8)
+- [Sublime​REPL](https://packagecontrol.io/packages/SublimeREPL)
+- [IMESupport](https://packagecontrol.io/packages/IMESupport)
+- [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
 
-## 主题
+### 主题
 - [Flatland](https://packagecontrol.io/packages/Theme%20-%20Flatland)
+- [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
 
+### 个人设置(Settings User)
 ``` json
 {
 	"caret_style": "wide",
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"default_encoding": "UTF-8",
 	"font_face": "Source Code Pro",
 	"font_size": 13,
@@ -33,8 +39,9 @@
 	"save_on_focus_lost": true,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true
 }
+```
