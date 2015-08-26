@@ -36,12 +36,17 @@
 
 ### Python
 - [Python Examples](http://www.programcreek.com/python/)
+- `Python学习资料s`[Full Stack Python](http://www.fullstackpython.com/best-python-resources.html)
 - [Vagrant搭建Python开发环境搭建](http://python.jobbole.com/81861/)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 - `python`[老齐的技术博客](	http://www.itdiffer.com/)
 - `python``临时`[个人技术博客](http://playbear.github.io/)
 - `书`[Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 - `Site`[Python Guide](http://docs.python-guide.org/en/latest/)
 - `书`[Intermediate Python](http://book.pythontips.com/en/latest/)
+- [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
+- 英文版`简明Python教程`[A byte of Python](http://www.swaroopch.com/notes/python/)
+- [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
