@@ -19,6 +19,9 @@
 - [Hello bug ~](http://hellobug.github.io/)
 - [理解ES6](https://github.com/lenville/understandinges6)
 
+### AngularJS
+- [文档](http://docs.angularjs.cn/api)
+
 ### Ionic
 - [Handling Cors issues in Ionic](http://blog.ionic.io/handling-cors-issues-in-ionic/)
 - [Login_sidemenu_tabs](http://codepen.io/mircobabini/pen/gLkli)
@@ -37,6 +40,8 @@
 - `python`[老齐的技术博客](	http://www.itdiffer.com/)
 - `python``临时`[个人技术博客](http://playbear.github.io/)
 - `书`[Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+- `Site`[Python Guide](http://docs.python-guide.org/en/latest/)
+- `书`[Intermediate Python](http://book.pythontips.com/en/latest/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
