@@ -1,6 +1,9 @@
 这里是收集的不错的资源，包括github上的repository和一个觉得不错的博客:
 - [Sublime Text3配置相关](https://github.com/zhangzhenqiang/resource/blob/master/ST3Settings.md)
 
+### 练级
+- [知道创宇研发技能表v3.0](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)
+
 ### C Sharp
 - [C#语言规范](http://www.cnblogs.com/forerunner/p/csls5-1-introduction.html)
 - [.net技术站](https://github.com/unruledboy/DotNetStack)
@@ -18,6 +21,9 @@
 - [JavaScript高级编程作者](http://www.nczonline.net/)
 - [Hello bug ~](http://hellobug.github.io/)
 - [理解ES6](https://github.com/lenville/understandinges6)
+
+### CSS
+- [CSS 最核心的几个概念](http://web.jobbole.com/83317/)
 
 ### AngularJS
 - [文档](http://docs.angularjs.cn/api)
@@ -56,6 +62,9 @@
 ### REST-ful
 - [REST-ful URI design](http://redrata.com/restful-uri-design/)
 - [RESTful API 设计最佳实践](http://mp.weixin.qq.com/s?__biz=MzAwNjMxMTA5Mw==&mid=212973684&idx=1&sn=53927df736ec229f0903ed294107ae52&scene=5#rd)
+
+### SQLite
+- [SQLite这么娇小可爱，不多了解点都不行啊](http://blog.jobbole.com/89949/)
 
 ### 其它
 - [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
