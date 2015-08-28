@@ -56,6 +56,7 @@
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
+- `应该看`[深入理解学习Git工作流](http://www.codeceo.com/article/git-learn-deeply.html)
 - `应该看`[教程](https://www.atlassian.com/git/tutorials/syncing/)
 - `应该看`[Git Community Book](http://gitbook.liuhui998.com/index.html)
 
