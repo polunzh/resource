@@ -53,6 +53,7 @@
 - [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 - 英文版`简明Python教程`[A byte of Python](http://www.swaroopch.com/notes/python/)
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
+- [深入 Python :Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
@@ -64,6 +65,8 @@
 - [REST-ful URI design](http://redrata.com/restful-uri-design/)
 - [RESTful API 设计最佳实践](http://mp.weixin.qq.com/s?__biz=MzAwNjMxMTA5Mw==&mid=212973684&idx=1&sn=53927df736ec229f0903ed294107ae52&scene=5#rd)
 
+### MongoDB
+- [The-little-mongodb-book](https://github.com/justinyhuang/the-little-mongodb-book-cn)
 ### SQLite
 - [SQLite这么娇小可爱，不多了解点都不行啊](http://blog.jobbole.com/89949/)
 
