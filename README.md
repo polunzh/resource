@@ -80,3 +80,4 @@
 - [配色](http://color.hailpixel.com/)
 - [《算法》第四版](http://algs4.cs.princeton.edu/home/)
 - [Markdown](http://jingxuan.io/markdown/)
+- `待读`[什么是堆和栈](http://blog.jobbole.com/75321/)
