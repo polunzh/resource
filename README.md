@@ -54,6 +54,7 @@
 - 英文版`简明Python教程`[A byte of Python](http://www.swaroopch.com/notes/python/)
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 - [深入 Python :Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
+- [用python爬虫抓站的一些技巧总结](http://python.jobbole.com/81997/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
