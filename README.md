@@ -55,6 +55,11 @@
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 - [深入 Python :Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
 - [用python爬虫抓站的一些技巧总结](http://python.jobbole.com/81997/)
+- [个人博客0](http://www.wklken.me/) 这里不只是有python,还有其它技术,比如vim
+- [Invent with Python](http://inventwithpython.com/chapters/)
+
+### Vim
+- [vim theme](http://vimcolors.com/)
 
 ### Git
 - [Pro Git(中文版)](http://jingxuan.io/progit/)
@@ -82,3 +87,7 @@
 - [《算法》第四版](http://algs4.cs.princeton.edu/home/)
 - [Markdown](http://jingxuan.io/markdown/)
 - `待读`[什么是堆和栈](http://blog.jobbole.com/75321/)
+- [Learn X in Y Minutes](http://learnxinyminutes.com/)
+
+### 工具
+- [httpie](https://github.com/jkbrzt/httpie)
