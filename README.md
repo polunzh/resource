@@ -58,6 +58,7 @@
 - [用python爬虫抓站的一些技巧总结](http://python.jobbole.com/81997/)
 - [个人博客0](http://www.wklken.me/) 这里不只是有python,还有其它技术,比如vim
 - [Invent with Python](http://inventwithpython.com/chapters/)
+- [Python Module of the Week](https://pymotw.com/2/contents.html)
 
 ### Vim
 - [vim theme](http://vimcolors.com/)
