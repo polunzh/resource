@@ -90,6 +90,6 @@
 - [Markdown](http://jingxuan.io/markdown/)
 - `待读`[什么是堆和栈](http://blog.jobbole.com/75321/)
 - [Learn X in Y Minutes](http://learnxinyminutes.com/)
-
+- [电子书](http://www.allitebooks.com/)
 ### 工具
 - [httpie](https://github.com/jkbrzt/httpie)
