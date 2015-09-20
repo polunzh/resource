@@ -91,6 +91,7 @@
 - `待读`[什么是堆和栈](http://blog.jobbole.com/75321/)
 - [Learn X in Y Minutes](http://learnxinyminutes.com/)
 - [电子书](http://www.allitebooks.com/)
+- [有意思的编程网站](http://codepancake.com/)
 
 ### 工具
 - [httpie](https://github.com/jkbrzt/httpie)
