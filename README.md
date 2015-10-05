@@ -78,6 +78,9 @@
 ### SQLite
 - [SQLite这么娇小可爱，不多了解点都不行啊](http://blog.jobbole.com/89949/)
 
+### NodeJS
+- [NodeSchool](http://nodeschool.io/)
+
 ### 其它
 - [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
 - [Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)
