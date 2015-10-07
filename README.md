@@ -21,6 +21,7 @@
 - [JavaScript高级编程作者](http://www.nczonline.net/)
 - [Hello bug ~](http://hellobug.github.io/)
 - [理解ES6](https://github.com/lenville/understandinges6)
+- [Learn ES2015](http://babeljs.io/docs/learn-es2015/)
 
 ### CSS
 - [CSS 最核心的几个概念](http://web.jobbole.com/83317/)
