@@ -87,6 +87,7 @@
 - [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
 
 ### 其它
+- [An Introduction to Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
 - [前端资料](http://f2er.club/)
 - [Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack)
 - [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
