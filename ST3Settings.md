@@ -1,4 +1,5 @@
 `个人使用st3经常使用的配置和插件`
+
 ### 插件
 - [Emmet](https://packagecontrol.io/packages/Emmet)
 - [HtmlBeautify](https://packagecontrol.io/packages/HTMLBeautify)
