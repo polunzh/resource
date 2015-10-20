@@ -17,20 +17,27 @@
 ### 主题
 - [Flatland](https://packagecontrol.io/packages/Theme%20-%20Flatland)
 - [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
+- [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 
 ### 个人设置(Settings User)
 ``` json
 {
 	"caret_style": "wide",
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	//"theme": "Material-Theme-Lighter.sublime-theme",
+	//"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme",
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_encoding": "UTF-8",
-	"font_face": "Source Code Pro",
+	"overlay_scroll_bars": "enabled",
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"font_face": "Consolas",
 	"font_size": 13,
 	"ignored_packages":
 	[
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"match_brackets_braces": true,
@@ -39,9 +46,23 @@
 	"save_on_focus_lost": true,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
-	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
-	"trim_trailing_white_space_on_save": true
+
+	// Material Theme Settings
+	// "material_theme_small_tab": true,                            // Set small tabs
+	// "material_theme_disable_fileicons": true,                    // Hide siderbar file type icons
+	// "material_theme_disable_folder_animation": true,        // Disable folder animation
+	// "material_theme_small_statusbar": true,                    // Set small status bar
+	// "material_theme_disable_tree_indicator": true,            // Disable sidebar file indicator
+	// "material_theme_bold_tab": true,                                // Make the tab labels bolder
+	// "material_theme_tabs_separator": true,                        // Show tabs separator
+	// "material_theme_accent_lime": true,                            // set green lime accent color
+	// "material_theme_accent_purple": true,                        // set purple accent color
+	// "material_theme_accent_red": true,                            // set pale red accent color
+	// "material_theme_accent_orange": true,                        // set orange accent color
+	// "material_theme_accent_yellow": true,                        // set yellow accent color
+	// "material_theme_panel_separator": true,                    // show bottom panel separator
+	// "material_theme_tabs_autowidth": true,                        // Enable autowidth for tabs
+	// < /Material Theme Settings>
 }
 ```
