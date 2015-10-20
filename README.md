@@ -85,6 +85,8 @@
 ### ReactJS
 - [Getting started with React](http://ryanclark.me/getting-started-with-react/)
 - [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
+- [React 中文索引](https://www.v2ex.com/t/229443#reply19)
+- [React China](http://bbs.react-china.org/)
 
 ### 其它
 - [An Introduction to Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
