@@ -70,6 +70,7 @@
 - `应该看`[深入理解学习Git工作流](http://www.codeceo.com/article/git-learn-deeply.html)
 - `应该看`[教程](https://www.atlassian.com/git/tutorials/syncing/)
 - `应该看`[Git Community Book](http://gitbook.liuhui998.com/index.html)
+- `应该看`[Github漫游指南](http://github.phodal.com/)
 
 ### REST-ful
 - [REST-ful URI design](http://redrata.com/restful-uri-design/)
