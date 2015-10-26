@@ -87,7 +87,7 @@
 
 ### ReactJS
 - [Getting started with React](http://ryanclark.me/getting-started-with-react/)
-- [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
+- [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react) | [中文](http://idlelife.org/archives/977)
 - [React 中文索引](https://www.v2ex.com/t/229443#reply19)
 - [React China](http://bbs.react-china.org/)
 
