@@ -17,6 +17,7 @@
 - `ef7`[EntityFramework Docs](http://ef.readthedocs.org/en/latest/index.html)
 
 ### JavaScript
+- [Douglas Crockford](http://www.crockford.com/)
 - [函数式JavaScript](http://insights.thoughtworkers.org/functional-javascript/)
 - [JavaScript高级编程作者](http://www.nczonline.net/)
 - [Hello bug ~](http://hellobug.github.io/)
