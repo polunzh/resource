@@ -106,6 +106,7 @@
 - [Learn X in Y Minutes](http://learnxinyminutes.com/)
 - [电子书](http://www.allitebooks.com/)
 - [有意思的编程网站](http://codepancake.com/)
+- `前端`[前端入门方法](https://github.com/qiu-deqing/FE-learning)
 
 ### 工具
 - [httpie](https://github.com/jkbrzt/httpie)
