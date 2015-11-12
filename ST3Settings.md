@@ -51,22 +51,5 @@
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-
-	// Material Theme Settings
-	// "material_theme_small_tab": true,                            // Set small tabs
-	// "material_theme_disable_fileicons": true,                    // Hide siderbar file type icons
-	// "material_theme_disable_folder_animation": true,        // Disable folder animation
-	// "material_theme_small_statusbar": true,                    // Set small status bar
-	// "material_theme_disable_tree_indicator": true,            // Disable sidebar file indicator
-	// "material_theme_bold_tab": true,                                // Make the tab labels bolder
-	// "material_theme_tabs_separator": true,                        // Show tabs separator
-	// "material_theme_accent_lime": true,                            // set green lime accent color
-	// "material_theme_accent_purple": true,                        // set purple accent color
-	// "material_theme_accent_red": true,                            // set pale red accent color
-	// "material_theme_accent_orange": true,                        // set orange accent color
-	// "material_theme_accent_yellow": true,                        // set yellow accent color
-	// "material_theme_panel_separator": true,                    // show bottom panel separator
-	// "material_theme_tabs_autowidth": true,                        // Enable autowidth for tabs
-	// < /Material Theme Settings>
 }
 ```

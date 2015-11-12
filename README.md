@@ -49,7 +49,7 @@
 - `Python学习资料s`[Full Stack Python](http://www.fullstackpython.com/best-python-resources.html)
 - [Vagrant搭建Python开发环境搭建](http://python.jobbole.com/81861/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
-- `python`[老齐的技术博客](	http://www.itdiffer.com/)
+- `python`[老齐的技术博客](    http://www.itdiffer.com/)
 - `python``临时`[个人技术博客](http://playbear.github.io/)
 - `书`[Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 - `Site`[Python Guide](http://docs.python-guide.org/en/latest/)
@@ -110,3 +110,6 @@
 
 ### 工具
 - [httpie](https://github.com/jkbrzt/httpie)
+
+### 博客
+- `喜欢`[大厨的日常](http://yanyiwu.com/)
