@@ -1,6 +1,6 @@
+_这里将不再更新，可以看[这里](http://www.epolun.com/2015/08/08/good-resources/)_
 这里是收集的不错的资源，包括github上的repository和一个觉得不错的博客:
 - [Sublime Text3配置相关](https://github.com/zhangzhenqiang/resource/blob/master/ST3Settings.md)
-
 ### 练级
 - [知道创宇研发技能表v3.0](http://blog.knownsec.com/Knownsec_RD_Checklist/v3.0.html)
 
