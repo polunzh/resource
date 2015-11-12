@@ -17,11 +17,13 @@
 - `ef7`[EntityFramework Docs](http://ef.readthedocs.org/en/latest/index.html)
 
 ### JavaScript
+- [Douglas Crockford](http://www.crockford.com/)
 - [函数式JavaScript](http://insights.thoughtworkers.org/functional-javascript/)
 - [JavaScript高级编程作者](http://www.nczonline.net/)
 - [Hello bug ~](http://hellobug.github.io/)
 - [理解ES6](https://github.com/lenville/understandinges6)
 - [Learn ES2015](http://babeljs.io/docs/learn-es2015/)
+- [函数式JavaScript相关文章](http://jimliu.net/)
 
 ### CSS
 - [CSS 最核心的几个概念](http://web.jobbole.com/83317/)
@@ -69,6 +71,7 @@
 - `应该看`[深入理解学习Git工作流](http://www.codeceo.com/article/git-learn-deeply.html)
 - `应该看`[教程](https://www.atlassian.com/git/tutorials/syncing/)
 - `应该看`[Git Community Book](http://gitbook.liuhui998.com/index.html)
+- `应该看`[Github漫游指南](http://github.phodal.com/)
 
 ### REST-ful
 - [REST-ful URI design](http://redrata.com/restful-uri-design/)
@@ -84,7 +87,9 @@
 
 ### ReactJS
 - [Getting started with React](http://ryanclark.me/getting-started-with-react/)
-- [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react)
+- [React 终极教程](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/) | [代码](https://github.com/sahat/newedenfaces-react) | [中文](http://idlelife.org/archives/977)
+- [React 中文索引](https://www.v2ex.com/t/229443#reply19)
+- [React China](http://bbs.react-china.org/)
 
 ### 其它
 - [An Introduction to Gulp.js](http://www.sitepoint.com/introduction-gulp-js/)
@@ -101,6 +106,7 @@
 - [Learn X in Y Minutes](http://learnxinyminutes.com/)
 - [电子书](http://www.allitebooks.com/)
 - [有意思的编程网站](http://codepancake.com/)
+- `前端`[前端入门方法](https://github.com/qiu-deqing/FE-learning)
 
 ### 工具
 - [httpie](https://github.com/jkbrzt/httpie)

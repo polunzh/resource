@@ -20,6 +20,9 @@
 - [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
 - [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 
+### 一个主题网站
+- [colorsublime](http://colorsublime.com/)
+
 ### 个人设置(Settings User)
 ``` json
 {
