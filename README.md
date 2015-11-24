@@ -64,6 +64,7 @@ _这个文件将不再更新，可以看[这里](http://www.epolun.com/2015/08/0
 - [个人博客0](http://www.wklken.me/) 这里不只是有python,还有其它技术,比如vim
 - [Invent with Python](http://inventwithpython.com/chapters/)
 - [Python Module of the Week](https://pymotw.com/2/contents.html)
+- [Flask大型教程项目](http://www.pythondoc.com/flask-mega-tutorial/index.html)
 
 ### Vim
 - [vim theme](http://vimcolors.com/)
