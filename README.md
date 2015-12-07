@@ -1,5 +1,3 @@
-_这个文件将不再更新，可以看[这里](http://www.epolun.com/2015/08/08/good-resources/)_
-
 这里是收集的不错的资源，包括github上的repository和一个觉得不错的博客:
 - [Sublime Text3配置相关](https://github.com/zhangzhenqiang/resource/blob/master/ST3Settings.md)
 
@@ -29,6 +27,8 @@ _这个文件将不再更新，可以看[这里](http://www.epolun.com/2015/08/0
 
 ### CSS
 - [CSS 最核心的几个概念](http://web.jobbole.com/83317/)
+- [学习CSS布局](http://zh.learnlayout.com/)
+- [Learn to Code HTML&CSS](http://learn.shayhowe.com/html-css/)
 
 ### AngularJS
 - [文档](http://docs.angularjs.cn/api)
