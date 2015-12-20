@@ -121,3 +121,6 @@
 
 ### 博客
 - `喜欢`[大厨的日常](http://yanyiwu.com/)
+
+### Java
+- [Java语言程序设计（基础篇）网站](http://www.cs.armstrong.edu/liang/intro8e/toc.html)
